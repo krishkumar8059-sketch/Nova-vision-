@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract cinematic dark background",
+      "imageUrl": "https://picsum.photos/seed/nova-hero/1920/1080",
+      "imageHint": "cinematic dark"
+    },
+    {
+      "id": "showreel-1",
+      "description": "Professional video editing setup",
+      "imageUrl": "https://picsum.photos/seed/nova-1/800/600",
+      "imageHint": "video studio"
+    },
+    {
+      "id": "showreel-2",
+      "description": "High-end camera on set",
+      "imageUrl": "https://picsum.photos/seed/nova-2/800/600",
+      "imageHint": "cinema camera"
+    },
+    {
+      "id": "showreel-3",
+      "description": "Dynamic motion graphics",
+      "imageUrl": "https://picsum.photos/seed/nova-3/800/600",
+      "imageHint": "motion graphics"
+    },
+    {
+      "id": "social-growth",
+      "description": "Data visualization on a screen",
+      "imageUrl": "https://picsum.photos/seed/nova-growth/800/600",
+      "imageHint": "data growth"
+    },
+    {
+      "id": "team-photo",
+      "description": "Jihan and Krish working at Nova Vision Studio",
+      "imageUrl": "https://picsum.photos/seed/nova-team/1200/800",
+      "imageHint": "creative team"
+    }
+  ]
+}
